@@ -2,6 +2,7 @@
   "name": "Hello component",
   "about_url": "https://github.com/ваш-логин/hello_plugin",
   "license_url": "https://opensource.org/licenses/MIT",
+  "component": true,
   "assets": {
     "stylesheets": [
       "stylesheets/hello.css"
