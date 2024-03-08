@@ -1,0 +1,13 @@
+{
+  "name": "Hello component",
+  "about_url": "https://github.com/ваш-логин/hello_plugin",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "assets": {
+    "stylesheets": [
+      "stylesheets/hello.css"
+    ],
+    "javascripts": [
+      "javascripts/hello.js"
+    ]
+  }
+}
